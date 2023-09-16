@@ -1,3 +1,4 @@
+mkdir -p ./tmp
 
 curl -s -G -H "User-Agent: regional-pmtiles-builder" \
   -d format=jsonv2 \
