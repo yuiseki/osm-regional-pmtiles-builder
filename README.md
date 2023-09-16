@@ -13,4 +13,5 @@
 ```bash
 make clean
 make region 東京都北区
+make start
 ```
