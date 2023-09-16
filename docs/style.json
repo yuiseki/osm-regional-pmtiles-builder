@@ -44,7 +44,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "pmtiles://http://localhost:8080/region.pmtiles"
+      "url": "pmtiles://./region.pmtiles"
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
