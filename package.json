@@ -9,7 +9,7 @@
   "author": "",
   "license": "WTFPL",
   "dependencies": {
-    "@unvt/charites": "^2.0.0",
+    "@unvt/charites": "^2.1.1",
     "http-server": "^14.1.1",
     "osmtogeojson": "^3.0.0-beta.5"
   }
